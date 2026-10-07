@@ -7,6 +7,7 @@
 - `line-height.html`: 행간 개선 비교
 - `hero.html`: 히어로 배경 정리
 - `navigation.html`: 내비게이션 구조 개선
+- `top-button.html`: 맨 위로 버튼
 - `docs/line-height-guide.md`: 세 페이지 행간 가이드
 
 ## 배포 (GitHub → Vercel)
